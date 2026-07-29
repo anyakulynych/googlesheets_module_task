@@ -44,8 +44,11 @@ The project uses three tables:
 2. Continue expanding in high-performing European markets.
 3. Optimize pricing and product mix rather than prioritizing shipping speed.
 4. Use ABC analysis to improve inventory management and resource allocation.
+
 Project Files
+
 📄 Google Sheets: https://docs.google.com/spreadsheets/d/1NaVhj33dF-1JnPdo7M1aJdyxEEAX8J8n6AF2G6P1amk/edit?usp=sharing 
+
 📝 Project Report: https://docs.google.com/document/d/1SPbp_BZye4thQ2uaeIdCvFYnORf1lLZQs9dcHqRuNwk/edit?usp=sharing 
 
 
