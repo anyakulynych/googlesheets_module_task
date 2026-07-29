@@ -29,14 +29,23 @@ The project uses three tables:
 - Dashboard creation.
 
 ## Key Insights:
+
 🌍 The company operates in 46 countries.
+
 💰 Overall profit margin equals 29.46%.
+
 🏆 Office Supplies, Household, and Cosmetics generate the highest revenue and profit.
+
 🇪🇺 Around 89.45% of total profit comes from the European market, with Southern Europe being the strongest-performing subregion.
+
 🛒 Online and offline sales perform almost equally, while online sales exceed offline by approximately 1%.
+
 🚚 Shipping time shows no meaningful correlation with profit, suggesting profitability is driven mainly by product category, pricing, and sales volume.
+
 📈 Sales fluctuate over time, with the highest profit recorded in 2014.
+
 📅 Friday is the strongest sales day, while Thursday has the lowest sales volume.
+
 📊 ABC analysis confirms the Pareto principle: a small number of product categories generates most of the company's revenue and profit.
 
 ## Business Recommendations
